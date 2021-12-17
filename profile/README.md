@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 SDNE Capstone Group</h1>
+<h1 align="center">👨‍💻👨‍💻 SDNE Capstone Group 👨‍💻👨‍💻</h1>
 
 <h1>👋 Introduction</h1>
 <p>We are a group of third year students currently enrolled at Sheridan College for Software Development and Network Engineering.</p>
