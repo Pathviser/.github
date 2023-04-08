@@ -1,14 +1,11 @@
-<h1 align="center">👨‍💻👨‍💻 SDNE Capstone Group 👨‍💻👨‍💻</h1>
+<h1 align="center">Pathviser</h1>
 
 <h1>👋 Introduction</h1>
-<p>We are a group of third year students currently enrolled at Sheridan College for Software Development and Network Engineering.</p>
+<p>A group of students working on a new platform</p>
 
-<h3 align="center">⭐ Team members ⭐</h3>
+<h3 align="center">⭐ Team ⭐</h3>
 <table align="center">
   <tr align="center">
-    <td>
-      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://avatars.githubusercontent.com/u/55066233?v=4" alt="ShernanJ" width="140" height="140" /></a>
-    </td>
     <td>
       <a href="https://github.com/thisisomar" target="_blank"><img src="https://avatars.githubusercontent.com/u/50152142?v=4" alt="thisisomar" width="140" height="140" /></a>
     </td>
@@ -20,10 +17,6 @@
     </td>
   </tr>
   <tr align="center">
-    <td>
-      <b><p>Shernan Javier</p></b>
-      <a href="https://github.com/ShernanJ" target="_blank"><img src="https://img.shields.io/badge/-ShernanJ-%2325222E?style=flat-square&logo=github" alt="ShernanJ" /></a>
-    </td>
     <td>
       <b><p>Omar Abu Samra</p></b>
       <a href="https://github.com/thisisomar" target="_blank"><img src="https://img.shields.io/badge/-thisisomar-%2325222E?style=flat-square&logo=github" alt="thisisomar" /></a>
